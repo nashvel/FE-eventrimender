@@ -11,5 +11,4 @@
 - *Franz Maghanoy* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/francis.france.71697)
 - *Elizabeth Ocampo* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/suazodiana)
 
-### Random quotes (changing every hour)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
